@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## CSCI 15:  Exploring Bias in Computing
 
-You can use the [editor on GitHub](https://github.com/williams-cs/cs15-winter22/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This course explores bias in computing at several levels with a focus on how data and technology intersect with and have an impact on different identities in computing. It will examine how bias towards different identities (such as gender, race, ethnicity, socio-economic status, ability, and sexual identity) impacts individuals working in the computing field. It will also examine how these biases can be embedded in data, algorithms, predictive models, and physical products. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The content of this course is roughly divided into the following three parts:
 
-### Markdown
+* Understanding different identities and intersectionality
+* Exploring the history and status quo of diversity, inclusion and equity in Computer Science (both in academic and industry) 
+* Exploring bias in algorithms, prediction models, and technological products
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Instructors
+ 
+* Kelly Shaw (kshaw@cs.williams.edu)
+* Shikha Singh  (shikha@cs.williams.edu) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/williams-cs/cs15-winter22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
